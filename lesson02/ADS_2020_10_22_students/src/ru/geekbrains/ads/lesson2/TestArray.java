@@ -15,10 +15,10 @@ public class TestArray {
         data.add(2);
         data.add(1);
 
-        data.display();
+//        data.display();
 //        data.sortBubble();
 //        data.sortSelect();
-        data.sortInsert();
+//        data.sortInsert();
         data.display();
 
 //        data.remove(Integer.valueOf(3));
