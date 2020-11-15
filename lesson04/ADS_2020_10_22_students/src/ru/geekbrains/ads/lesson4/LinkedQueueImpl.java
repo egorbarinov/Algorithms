@@ -35,4 +35,5 @@ public class LinkedQueueImpl<E> implements Queue<E> {
     public boolean isFull() {
         return false;
     }
+
 }
