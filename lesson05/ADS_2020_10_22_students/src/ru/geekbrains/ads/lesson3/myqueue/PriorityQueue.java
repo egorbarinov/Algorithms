@@ -33,6 +33,6 @@ public class PriorityQueue<E extends Object & Comparable<? super E> > extends Qu
 
     @Override
     public E peekHead() {
-        return isEmpty() ? null : data[size - 1];
+        return data[size - 1];
     }
 }
