@@ -2,7 +2,7 @@ package ru.geekbrains.ads.lesson2;
 
 import java.util.Arrays;
 
-public class ArrayImpl<E extends Comparable<? super E>> implements Cloneable, Array<E> {
+public class ArrayImpl<E extends Comparable<? super E>> implements Array<E> {
 
     private static final int DEFAULT_CAPACITY = 8;
 

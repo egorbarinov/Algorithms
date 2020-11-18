@@ -40,8 +40,8 @@ public class Test {
     }
 
     private static void testQueue() {
-//        Queue<Integer> queue = new QueueImpl<>(5);
-        Queue<Integer> queue = new PriorityQueue<>(5);
+        Queue<Integer> queue = new QueueImpl<>(5);
+//        Queue<Integer> queue = new PriorityQueue<>(5);
         System.out.println(queue.insert(3));
         System.out.println(queue.insert(5));
         System.out.println(queue.insert(1));
