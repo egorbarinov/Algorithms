@@ -40,7 +40,6 @@ public class Main7 {
         graph.addEdges("F", "G");
 
         graph.dfs("A");
-        //A B E C D F G
     }
 
 
