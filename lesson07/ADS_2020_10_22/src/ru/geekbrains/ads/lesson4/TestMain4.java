@@ -1,9 +1,7 @@
 package ru.geekbrains.ads.lesson4;
 
-import ru.geekbrains.ads.lesson3.myqueue.PriorityQueue;
 import ru.geekbrains.ads.lesson3.myqueue.Queue;
 import ru.geekbrains.ads.lesson3.mystack.Stack;
-import ru.geekbrains.ads.lesson3.mystack.StackImpl;
 
 import java.util.ArrayList;
 import java.util.List;
